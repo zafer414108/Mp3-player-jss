@@ -35,3 +35,5 @@ The audio.addEventListener event listener updates the current time of the audio.
 The window.onload event listener is set to initialize the audio player when the page is loaded.
 
 Let me know if you need any further assistance!
+# MP3 GİF
+![radio](https://github.com/zafer414108/Mp3-player-jss/assets/147662873/ec0cd971-5eb7-491f-ade4-b1d215563283)
